@@ -1,0 +1,2 @@
+MAPE for volume = 0.2532530556735252
+[[file:/mnt/hgfs/marc/Code/KDD2017/results/2017-04-13_submit/summary_valids_lines_volume_sk-gbr.jpg][Lines compare]]

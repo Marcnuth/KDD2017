@@ -1,0 +1,2 @@
+MAPE for trajectories = 0.18656256011046138
+[[file:/mnt/hgfs/xm-linux/Competitions/KDD2017/results/2017-03-25_submit/summary_valids_lines_trajectories_sk-svr.jpg][Lines compare]]

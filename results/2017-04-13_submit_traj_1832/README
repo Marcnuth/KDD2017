@@ -1,0 +1,1 @@
+PYTHONPATH='.' luigi --module tasks.summary Summary --uuid submit --task trajectories --algorithm sk-svr --log-level INFO --workers 4

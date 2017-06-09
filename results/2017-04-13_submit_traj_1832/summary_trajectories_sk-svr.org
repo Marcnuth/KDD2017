@@ -1,0 +1,2 @@
+MAPE for trajectories = 0.1704927953330716
+[[file:/mnt/hgfs/marc/Code/KDD2017/results/2017-04-13_submit/summary_valids_lines_trajectories_sk-svr.jpg][Lines compare]]
